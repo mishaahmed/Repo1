@@ -1,6 +1,4 @@
 from PySide6.QtWidgets import QApplication, QWidget
-
-# Only needed for access to command line arguments
 import sys
 
 # You need one (and only one) QApplication instance per application.
